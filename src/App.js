@@ -10,7 +10,8 @@ function App() {
       element: <Home />,
     },
     {
-
+      path: "/generator",
+      element: <Generator />
     }
   ]);
 
